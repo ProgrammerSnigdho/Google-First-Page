@@ -1,4 +1,4 @@
-* {
+    * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -167,4 +167,3 @@ section .footer .row.row2 ul:nth-child(2) li a {
     color: #5f6368;
     margin-right: 0px;
     margin-left: 25px;
-}
